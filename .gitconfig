@@ -1,0 +1,7 @@
+[user]
+	email = Jairocamposruiz1991@gmail.com
+	name = Jairo Campos Ruiz
+[init]
+	defaultBranch = main
+[core]
+	pager = less
